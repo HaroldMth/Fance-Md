@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://telegra.ph/file/eb96c716a327862d66078.jpg">
-    <img alt="Fance MD" height="400" src="/lib/assets/pk.jpg">
+    <img alt="Fance MD" height="400" src="https://telegra.ph/file/eb96c716a327862d66078.jpg">
   </a>
 </p>
     
